@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Today's Date]
+**Effective Date:** 10.02.2025.
 
 Post Manager respects your privacy. We do not store, share, or sell any user data.
 
