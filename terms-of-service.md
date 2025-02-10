@@ -1,4 +1,4 @@
-**Effective Date:** [Today's Date]
+**Effective Date:** 10.02.2025.
 
 Welcome to Post Manager! By using this application, you agree to the following terms:
 
